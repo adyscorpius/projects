@@ -1,5 +1,9 @@
 # Personal Projects
 
+### Logseq Jira Plugin
+A plugin for Logseq users to pull in Jira ticket information within Logseq. 
+https://bit.ly/logseq-jira
+
 ### Whatsapp Web Detox Bot 
 Filter WhatsApp chats and messages by keywords or mentions to improve productivity and work-life balance.
 Built using Typescript in NodeJS
